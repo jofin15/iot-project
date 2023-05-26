@@ -1,0 +1,8 @@
+below and equal 29 	temp
+45 to  above     humidity 
+happy
+
+
+30 31 32 33 temp
+30 to 44 humid
+sad
